@@ -1,0 +1,12 @@
+{
+    "name": "afoutopatisa/test",
+    "authors": [
+        {
+            "name": "afoutopatisa",
+            "email": "32128061+afoutopatisa@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
